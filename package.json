@@ -1,6 +1,6 @@
 {
-  "name": "zod-plugins",
-  "version": "5.0.0",
+  "name": "@hikoala/zod-plugins",
+  "version": "5.0.2",
   "license": "MIT",
   "private": false,
   "description": "A collection of plugins for the Zod framework.",
@@ -83,4 +83,3 @@
     "packages/**"
   ]
 }
-
