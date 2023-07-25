@@ -1,5 +1,5 @@
 {
-  "name": "zod-openapi",
+  "name": "@hikoala/zod-openapi",
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
   "sourceRoot": "packages/zod-openapi/src",
   "projectType": "library",
